@@ -6,7 +6,9 @@
 			"webxr/three.min.js",
 			"webxr/webxr-polyfill.min.js"
 		],
-		"css": []
+		"css": [
+			"https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap"
+		]
 	},
 	"skin": {
 		"js": "skin.js"
@@ -14,7 +16,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2022-03-28T03:34:49.453Z",
+	"creationdate": "2022-03-28T04:17:27.140Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",
