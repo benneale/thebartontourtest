@@ -26,7 +26,7 @@
       <video nodechangekeep="0" mode="1" height="1080" ambientlevel="0.000" clickmode="0" pan="-92.260" loop="1" startmutedmobile="0" field="90.000" fov="26.790" rotz="0.010" handcursor="0" pansize="10.000" roty="-1.130" tiltsize="10.000" level="1.000" tilt="1.410" width="1920" id="Element01" stretch="1.231" rotx="1.440">
         <source url="media/17-03-2022 - 17-03-2022 - Virtual Reality Sizzle Reel  .mp4"/>
       </video>
-      <lensflare type="1" pan="-8.950" alpha="80.000" blinding="24.000" tilt="16.560" id="Lensflare01" color="0xffffff"/>
+      <lensflare type="1" pan="-8.950" alpha="80.000" blinding="36.000" tilt="16.560" id="Lensflare01" color="0xffffff"/>
     </media>
     <transition type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomafterinfov="120" zoomafteroutfov="40" softedge="0" zoomfov="40" zoomin="0" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="1"/>
     <flyintransition enabled="1" speed="2.00"/>
@@ -65,7 +65,7 @@
       <image pan="-271.190" height="1500" clickmode="0" stretch="1.000" rotx="18.000" width="3000" rotz="0.000" roty="0.000" tilt="21.560" id="Element01" handcursor="0" fov="57.720">
         <source url="media/Product Info_white_shadow.png"/>
       </image>
-      <lensflare type="1" pan="-348.260" alpha="80.000" blinding="25.000" tilt="32.540" id="Lensflare01" color="0xffffff"/>
+      <lensflare type="1" pan="-348.260" alpha="80.000" blinding="36.000" tilt="32.540" id="Lensflare01" color="0xffffff"/>
     </media>
     <transition type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomafterinfov="120" zoomafteroutfov="40" softedge="0" zoomfov="40" zoomin="0" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="1"/>
     <flyintransition enabled="1" speed="2.00"/>
