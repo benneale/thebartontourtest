@@ -92,7 +92,6 @@
       <label height="20" textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" wordwrap="1" background="1" enabled="1" textalpha="1" borderalpha="1" border="1" borderradius="1" backgroundalpha="1"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
       <hotspot pan="-205.01" skinid="ht_node" url="{node1}" description="" tilt="-14.01" target="" id="Point01" title=""/>
-      <hotspot pan="-198.96" skinid="ht_node" url="{node3}" description="" tilt="-5.67" target="" id="Point02" title=""/>
       <hotspot pan="-357.29" skinid="ht_info" url="" description="Our Lumination Learning Lab uses the leading enterprise headset solutions that, when combined with powerful computer graphics, provide the most realistic and high-definition and immersive experience." tilt="-9.8" target="" id="Point03" title="The Latest Headsets"/>
       <hotspot pan="-341.44" skinid="ht_info" url="" description="With our large high-resolution projectors, we're able to see and engage with the activities that participants are experiencing within virtual reality." tilt="3.37" target="" id="Point04" title="Share the experience"/>
     </hotspots>
