@@ -20,7 +20,6 @@
       <label enabled="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" borderradius="1" width="180"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
       <hotspot id="Point01" description="" url="{node1}" skinid="ht_node" pan="-23.7" tilt="-3.85" title="" target=""/>
-      <hotspot id="Point03" description="" url="" skinid="ht_info" pan="-315.22" tilt="-6.29" title="Unisex Facilities" target=""/>
     </hotspots>
     <media>
       <lensflare id="Lensflare01" color="0xffffff" type="1" alpha="80.000" pan="-8.950" tilt="16.560" blinding="36.000"/>
@@ -103,13 +102,28 @@
       <label enabled="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" borderradius="1" width="180"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
       <hotspot id="Point01" description="" url="{node1}" skinid="ht_node" pan="-204.37" tilt="-14.02" title="" target=""/>
-      <hotspot id="Point03" description="Our Lumination Learning Lab uses the leading enterprise headset solutions that, when combined with powerful computer graphics, provide the most realistic and high-definition and immersive experience." url="" skinid="ht_info" pan="0.120004" tilt="-7.05" title="The Latest Headsets" target=""/>
+      <hotspot id="Point03" description="Our Lumination Learning Lab uses the leading enterprise headset solutions that, when combined with powerful computer graphics, provide the most realistic and high-definition and immersive experience." url="" skinid="ht_info" pan="-1.12" tilt="-6.4" title="The Latest Headsets" target=""/>
       <hotspot id="Point04" description="The extended reality (XR) space creates a collaborative environment by broadcasting Virtual Reality worlds onto large panoramic displays. &#xa;&#xa;Cohorts of participants are able to see and engage with the activities that participants are experiencing; actively engaging with the technology and developing key skills." url="" skinid="ht_info" pan="-341.44" tilt="3.37" title="Share The Experience" target=""/>
       <hotspot id="Point02" description="Guide students, employees and the workforce through Virtual Reality and digital learning with ease. &#xa;&#xa;Users fully control the experience. Set the scene with room automation for lighting, AV equipment and blinds.&#xa;&#xa;Seamlessly launch VR experiences for all learners." url="" skinid="ht_info" pan="-260.7" tilt="0.26" title="The Automation Tablet" target=""/>
       <hotspot id="Point05" description="Cohorts of participants actively engage with the technology and develop key skills. A Lumination Learning Lab can be transformed into a variety dynamic learning environments; classroom, theatre, boardroom among many other configurations." url="" skinid="ht_info" pan="-136.67" tilt="-7.83" title="A Flexible Learning Environment" target=""/>
-      <hotspot id="Point06" description="The lighted safe area ensures that users are kept safe within their virtual reality experience. Users see a 'no go zone' within the headset when they approach the safe zone perimeter.&#xa;&#xa;" url="" skinid="ht_info" pan="-328.16" tilt="-32.66" title="VR Station Safe Area" target=""/>
+      <hotspot id="Point06" description="The lighted safe area ensures that users are kept safe within their virtual reality experience. Users see a 'no go zone' within the headset when they approach the safe zone perimeter.&#xa;&#xa;" url="" skinid="ht_info" pan="-336.64" tilt="-27.72" title="VR Station Safe Area" target=""/>
+      <hotspot id="Point07" description="" url="" skinid="ht_url" pan="-60.9" tilt="-7.64" title="Download" target="_blank"/>
+      <hotspot id="Point08" description="" url="" skinid="ht_url" pan="-61.71" tilt="-26.1" title="Download" target="_blank"/>
     </hotspots>
-    <media/>
+    <media>
+      <image id="Element01" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="17.000" height="669" roty="0.000" pan="-52.980" tilt="14.880" fov="20.000" width="1319">
+        <source url="media/Assets_title-07.png"/>
+      </image>
+      <image id="Element02" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="22.000" height="669" roty="0.000" pan="-357.740" tilt="16.770" fov="20.000" width="1775">
+        <source url="media/VR Stations-09.png"/>
+      </image>
+      <image id="Element03" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="-4.000" height="486" roty="0.000" pan="-54.760" tilt="-3.930" fov="20.000" width="736">
+        <source url="media/Assets-08.png"/>
+      </image>
+      <image id="Element04" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="-21.000" height="396" roty="0.000" pan="-53.640" tilt="-22.630" fov="20.000" width="744">
+        <source url="media/Assets-09.png"/>
+      </image>
+    </media>
     <transition enabled="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
