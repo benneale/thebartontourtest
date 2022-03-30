@@ -19,7 +19,7 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" borderradius="1" width="180"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" description="" url="{node1}" skinid="ht_node" pan="-23.67" tilt="-11.05" title="" target=""/>
+      <hotspot id="Point01" description="" url="{node1}" skinid="ht_node" pan="-23.7" tilt="-3.85" title="" target=""/>
       <hotspot id="Point03" description="" url="" skinid="ht_info" pan="-315.22" tilt="-6.29" title="Unisex Facilities" target=""/>
     </hotspots>
     <media>
@@ -49,8 +49,8 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" borderradius="1" width="180"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" description="" url="{node2}" skinid="ht_node" pan="-369.95" tilt="-10.18" title="" target=""/>
-      <hotspot id="Point02" description="" url="{node3}" skinid="ht_node" pan="-198.32" tilt="-13.8" title="" target=""/>
+      <hotspot id="Point01" description="" url="{node2}" skinid="ht_node" pan="-369.62" tilt="-3.48" title="" target=""/>
+      <hotspot id="Point02" description="" url="{node3}" skinid="ht_node" pan="-199.54" tilt="-4.12" title="" target=""/>
       <hotspot id="Point03" description="" url="" skinid="ht_info" pan="-215" tilt="-14" title="Who can use our Learning Labs?" target=""/>
       <hotspot id="Point04" description="" url="" skinid="ht_url" pan="-225" tilt="-14" title="Learn More" target="_blank"/>
     </hotspots>
@@ -73,6 +73,9 @@
       <image id="Element06" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="23.000" height="589" roty="0.000" pan="-236.840" tilt="21.710" fov="30.000" width="2000">
         <source url="media/Header-06.png"/>
       </image>
+      <video id="Element07" pansize="10.000" loop="1" clickmode="2" nodechangekeep="0" level="1.000" pan="-86.300" mode="1" stretch="0.960" tilt="9.050" ambientlevel="0.000" roty="4.000" height="1080" rotx="7.000" fov="32.020" width="1920" handcursor="1" startmutedmobile="0" rotz="0.000" tiltsize="10.000" field="90.000">
+        <source url="media/Sizzle_Reel.mp4"/>
+      </video>
       <lensflare id="Lensflare01" color="0xffffff" type="1" alpha="80.000" pan="-348.260" tilt="32.540" blinding="36.000"/>
     </media>
     <transition enabled="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
@@ -99,9 +102,12 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" borderradius="1" width="180"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" description="" url="{node1}" skinid="ht_node" pan="-205.01" tilt="-14.01" title="" target=""/>
-      <hotspot id="Point03" description="Our Lumination Learning Lab uses the leading enterprise headset solutions that, when combined with powerful computer graphics, provide the most realistic and high-definition and immersive experience." url="" skinid="ht_info" pan="-357.29" tilt="-9.8" title="The Latest Headsets" target=""/>
-      <hotspot id="Point04" description="With our large high-resolution projectors, we're able to see and engage with the activities that participants are experiencing within virtual reality." url="" skinid="ht_info" pan="-341.44" tilt="3.37" title="Share the experience" target=""/>
+      <hotspot id="Point01" description="" url="{node1}" skinid="ht_node" pan="-204.37" tilt="-14.02" title="" target=""/>
+      <hotspot id="Point03" description="Our Lumination Learning Lab uses the leading enterprise headset solutions that, when combined with powerful computer graphics, provide the most realistic and high-definition and immersive experience." url="" skinid="ht_info" pan="0.120004" tilt="-7.05" title="The Latest Headsets" target=""/>
+      <hotspot id="Point04" description="The extended reality (XR) space creates a collaborative environment by broadcasting Virtual Reality worlds onto large panoramic displays. &#xa;&#xa;Cohorts of participants are able to see and engage with the activities that participants are experiencing; actively engaging with the technology and developing key skills." url="" skinid="ht_info" pan="-341.44" tilt="3.37" title="Share The Experience" target=""/>
+      <hotspot id="Point02" description="Guide students, employees and the workforce through Virtual Reality and digital learning with ease. &#xa;&#xa;Users fully control the experience. Set the scene with room automation for lighting, AV equipment and blinds.&#xa;&#xa;Seamlessly launch VR experiences for all learners." url="" skinid="ht_info" pan="-260.7" tilt="0.26" title="The Automation Tablet" target=""/>
+      <hotspot id="Point05" description="Cohorts of participants actively engage with the technology and develop key skills. A Lumination Learning Lab can be transformed into a variety dynamic learning environments; classroom, theatre, boardroom among many other configurations." url="" skinid="ht_info" pan="-136.67" tilt="-7.83" title="A Flexible Learning Environment" target=""/>
+      <hotspot id="Point06" description="The lighted safe area ensures that users are kept safe within their virtual reality experience. Users see a 'no go zone' within the headset when they approach the safe zone perimeter.&#xa;&#xa;" url="" skinid="ht_info" pan="-328.16" tilt="-32.66" title="VR Station Safe Area" target=""/>
     </hotspots>
     <media/>
     <transition enabled="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
