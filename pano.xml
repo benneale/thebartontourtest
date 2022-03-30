@@ -56,24 +56,6 @@
       <hotspot id="Point04" description="" url="https://lumination.beyondweb.solutions/products/lumination-learning-labs/" skinid="ht_url" pan="-224.54" tilt="-14.24" title="Learn More" target="_blank"/>
     </hotspots>
     <media>
-      <image id="Element01" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="0.000" height="1755" roty="0.000" pan="40.000" tilt="0.000" fov="20.000" width="1242">
-        <source url="media/Product Cards_STEM Learning Tools.jpg"/>
-      </image>
-      <image id="Element02" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="0.000" height="1755" roty="0.000" pan="65.000" tilt="0.000" fov="20.000" width="1241">
-        <source url="media/Product Cards_Leadme.jpg"/>
-      </image>
-      <image id="Element03" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="0.000" height="1755" roty="0.000" pan="90.000" tilt="0.000" fov="20.000" width="1241">
-        <source url="media/Product Cards_XR Training.jpg"/>
-      </image>
-      <image id="Element04" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="0.000" height="1755" roty="0.000" pan="115.000" tilt="0.000" fov="20.000" width="1241">
-        <source url="media/Product Cards_Overlay.jpg"/>
-      </image>
-      <image id="Element06" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="20.000" height="1207" roty="0.000" pan="-232.990" tilt="25.790" fov="30.000" width="4095">
-        <source url="media/Header-06.png"/>
-      </image>
-      <image id="Element05" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="0.000" height="1755" roty="0.000" pan="140.000" tilt="0.000" fov="20.000" width="1242">
-        <source url="media/Product Cards_Lumination Learning Lab.jpg"/>
-      </image>
       <lensflare id="Lensflare01" color="0xffffff" type="1" alpha="80.000" pan="-348.260" tilt="32.540" blinding="36.000"/>
     </media>
     <transition enabled="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
