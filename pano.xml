@@ -52,8 +52,6 @@
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
       <hotspot id="Point01" description="" url="{node2}" skinid="ht_node" pan="-369.95" tilt="-10.18" title="" target=""/>
       <hotspot id="Point02" description="" url="{node3}" skinid="ht_node" pan="-198.32" tilt="-13.8" title="" target=""/>
-      <hotspot id="Point03" description="" url="" skinid="ht_info" pan="-216" tilt="-14" title="About Lumination Learning Labs" target=""/>
-      <hotspot id="Point04" description="" url="https://lumination.beyondweb.solutions/products/lumination-learning-labs/" skinid="ht_url" pan="-224.54" tilt="-14.24" title="Learn More" target="_blank"/>
     </hotspots>
     <media>
       <lensflare id="Lensflare01" color="0xffffff" type="1" alpha="80.000" pan="-348.260" tilt="32.540" blinding="36.000"/>
