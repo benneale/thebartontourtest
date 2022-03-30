@@ -22,6 +22,9 @@
       <hotspot id="Point01" description="" url="{node1}" skinid="ht_node" pan="-23.7" tilt="-3.85" title="" target=""/>
     </hotspots>
     <media>
+      <image id="Element01" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="0.000" height="349" roty="0.000" pan="-60.090" tilt="-15.040" fov="7.796" width="265">
+        <source url="media/Key-11-11.png"/>
+      </image>
       <lensflare id="Lensflare01" color="0xffffff" type="1" alpha="80.000" pan="-8.950" tilt="16.560" blinding="36.000"/>
     </media>
     <transition enabled="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
@@ -39,7 +42,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-56.42" tilt="1.59" fov="70"/>
+      <start projection="4" pan="-89.32" tilt="1.59" fov="70"/>
       <flyin projection="4" pan="-101.56" tilt="-2.08" fov="129.81"/>
       <min fovpixel="50" pan="0" tilt="-90"/>
       <max scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="120" fovfisheye="360"/>
@@ -50,8 +53,13 @@
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
       <hotspot id="Point01" description="" url="{node2}" skinid="ht_node" pan="-369.62" tilt="-3.48" title="" target=""/>
       <hotspot id="Point02" description="" url="{node3}" skinid="ht_node" pan="-199.54" tilt="-4.12" title="" target=""/>
-      <hotspot id="Point03" description="" url="" skinid="ht_info" pan="-215" tilt="-14" title="Who can use our Learning Labs?" target=""/>
+      <hotspot id="Point03" description="A student learns across areas such as English, Mathematics, Science, Technologies, The Arts and all other subjects in an immersive and engaging way,&#xa;&#xa;A worker retains a deeper understanding of new onboarding or training requirements,&#xa;&#xa;An employee learns about a high-risk, high-cost environment in a safe and cost-effective space,&#xa;&#xa;A manufacturer replicates manufacturing processes to upskill staff in a contextual environment. " url="" skinid="ht_info" pan="-215" tilt="-14" title="How is a Learning Lab used?" target=""/>
       <hotspot id="Point04" description="" url="" skinid="ht_url" pan="-225" tilt="-14" title="Learn More" target="_blank"/>
+      <hotspot id="Point05" description="" url="" skinid="ht_url" pan="-250" tilt="-14" title="Learn More" target="_blank"/>
+      <hotspot id="Point06" description="" url="" skinid="ht_url" pan="-274.71" tilt="-14" title="Learn More" target="_blank"/>
+      <hotspot id="Point07" description="" url="" skinid="ht_url" pan="-265" tilt="-14.06" title="Download the App" target="_blank"/>
+      <hotspot id="Point08" description="" url="" skinid="ht_url" pan="-300" tilt="-14" title="" target="_blank"/>
+      <hotspot id="Point09" description="" url="" skinid="ht_url" pan="-324.64" tilt="-14" title="Learn More" target="_blank"/>
     </hotspots>
     <media>
       <image id="Element01" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="0.000" height="1755" roty="0.000" pan="140.000" tilt="-0.040" fov="20.000" width="1242">
@@ -101,7 +109,7 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" borderradius="1" width="180"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" description="" url="{node1}" skinid="ht_node" pan="-204.37" tilt="-14.02" title="" target=""/>
+      <hotspot id="Point01" description="" url="{node1}" skinid="ht_node" pan="-204.73" tilt="-2.34" title="" target=""/>
       <hotspot id="Point03" description="Our Lumination Learning Lab uses the leading enterprise headset solutions that, when combined with powerful computer graphics, provide the most realistic and high-definition and immersive experience." url="" skinid="ht_info" pan="-1.12" tilt="-6.4" title="The Latest Headsets" target=""/>
       <hotspot id="Point04" description="The extended reality (XR) space creates a collaborative environment by broadcasting Virtual Reality worlds onto large panoramic displays. &#xa;&#xa;Cohorts of participants are able to see and engage with the activities that participants are experiencing; actively engaging with the technology and developing key skills." url="" skinid="ht_info" pan="-341.44" tilt="3.37" title="Share The Experience" target=""/>
       <hotspot id="Point02" description="Guide students, employees and the workforce through Virtual Reality and digital learning with ease. &#xa;&#xa;Users fully control the experience. Set the scene with room automation for lighting, AV equipment and blinds.&#xa;&#xa;Seamlessly launch VR experiences for all learners." url="" skinid="ht_info" pan="-260.7" tilt="0.26" title="The Automation Tablet" target=""/>
