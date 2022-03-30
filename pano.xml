@@ -21,6 +21,7 @@
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
       <hotspot id="Point01" description="" url="{node1}" skinid="ht_node" pan="-23.67" tilt="-11.05" title="" target=""/>
       <hotspot id="Point03" description="" url="" skinid="ht_info" pan="-315.22" tilt="-6.29" title="Unisex Facilities" target=""/>
+      <hotspot id="Point02" description="" url="{node2}" skinid="ht_node" pan="-17" tilt="-4.86" title="" target=""/>
     </hotspots>
     <media>
       <lensflare id="Lensflare01" color="0xffffff" type="1" alpha="80.000" pan="-8.950" tilt="16.560" blinding="36.000"/>
@@ -67,14 +68,11 @@
       <image id="Element04" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="0.000" height="1755" roty="0.000" pan="115.000" tilt="0.000" fov="20.000" width="1241">
         <source url="media/Product Cards_Overlay.jpg"/>
       </image>
-      <image id="Element05" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="0.000" height="1755" roty="0.000" pan="140.000" tilt="0.000" fov="20.000" width="1241">
-        <source url="media/Product Cards_Lumination Learning Lab.jpg"/>
-        <source url="media/Product Cards_Lumination Learning Lab.jpg"/>
-        <source url="media/Product Cards_Lumination Learning Lab.jpg"/>
-        <source url="media/Product Cards_Lumination Learning Lab.jpg"/>
-      </image>
       <image id="Element06" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="20.000" height="1207" roty="0.000" pan="-232.990" tilt="25.790" fov="30.000" width="4095">
         <source url="media/Header-06.png"/>
+      </image>
+      <image id="Element05" stretch="1.000" handcursor="0" rotz="0.000" clickmode="0" rotx="0.000" height="1755" roty="0.000" pan="140.000" tilt="0.000" fov="20.000" width="1242">
+        <source url="media/Product Cards_Lumination Learning Lab.jpg"/>
       </image>
       <lensflare id="Lensflare01" color="0xffffff" type="1" alpha="80.000" pan="-348.260" tilt="32.540" blinding="36.000"/>
     </media>
