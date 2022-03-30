@@ -23,12 +23,9 @@
       <hotspot id="Point03" description="" url="" skinid="ht_info" pan="-315.22" tilt="-6.29" title="Unisex Facilities" target=""/>
     </hotspots>
     <media>
-      <video id="Element01" pansize="10.000" loop="1" clickmode="0" nodechangekeep="0" level="1.000" pan="-92.260" mode="1" stretch="1.231" tilt="1.410" ambientlevel="0.000" roty="-1.130" height="1080" rotx="1.440" fov="26.790" width="1920" handcursor="0" startmutedmobile="0" rotz="0.010" tiltsize="10.000" field="90.000">
-        <source url="media/17-03-2022 - 17-03-2022 - Virtual Reality Sizzle Reel  .mp4"/>
-      </video>
       <lensflare id="Lensflare01" color="0xffffff" type="1" alpha="80.000" pan="-8.950" tilt="16.560" blinding="36.000"/>
     </media>
-    <transition enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
+    <transition enabled="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
     <control lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0" contextprojections="0" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" speedwheel="1" invertcontrol="1" lockedkeyboard="0" simulatemass="1" hideabout="0"/>
@@ -81,7 +78,7 @@
       </image>
       <lensflare id="Lensflare01" color="0xffffff" type="1" alpha="80.000" pan="-348.260" tilt="32.540" blinding="36.000"/>
     </media>
-    <transition enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
+    <transition enabled="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
     <control lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0" contextprojections="0" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" speedwheel="1" invertcontrol="1" lockedkeyboard="0" simulatemass="1" hideabout="0"/>
@@ -110,7 +107,7 @@
       <hotspot id="Point04" description="With our large high-resolution projectors, we're able to see and engage with the activities that participants are experiencing within virtual reality." url="" skinid="ht_info" pan="-341.44" tilt="3.37" title="Share the experience" target=""/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
+    <transition enabled="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomout="0" type="crossdissolve" zoomafterinfov="120" zoomfov="40" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
     <control lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0" contextprojections="0" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" speedwheel="1" invertcontrol="1" lockedkeyboard="0" simulatemass="1" hideabout="0"/>
