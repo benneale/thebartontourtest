@@ -1,140 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour start="node3" apprev="18105" appversion="6.1.14">
   <panorama id="node3">
-    <input height="3072" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3072" levelbias="0.400" levelingpitch="0">
-      <level height="3072" preload="0" width="3072" predecode="0"/>
-      <level height="1536" preload="0" width="1536" predecode="0"/>
-      <level height="768" preload="0" width="768" predecode="0"/>
-      <level height="384" preload="1" width="384" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="3072" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3072" leveltilesize="510">
+      <level height="3072" predecode="0" width="3072" preload="0"/>
+      <level height="1536" predecode="0" width="1536" preload="0"/>
+      <level height="768" predecode="0" width="768" preload="0"/>
+      <level height="384" predecode="1" width="384" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="0">
+    <view fovmode="0" pannorth="0">
       <start pan="-20.8" fov="70" tilt="0.3" projection="4"/>
       <flyin pan="-47" fov="120" tilt="-2.96" projection="4"/>
       <min pan="0" fovpixel="50" tilt="-90"/>
-      <max fovstereographic="330" pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+      <max pan="360" scaletofit="1" fovstereographic="330" fov="120" fovfisheye="360" tilt="90"/>
     </view>
-    <userdata tags="Assets" nodeid="node3" title="" description="" info="" customnodeid="" comment="" latitude="" heading="0" author="" datetime="17/03/2022 12:39 PM" copyright="" source="" longitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label bordercolor="0x000000" height="20" wordwrap="1" enabled="1" backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" border="1" width="180" backgroundalpha="1" borderalpha="1" background="1" textalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot id="Point01" pan="-22.71" title="" target="" description="" url="{node1}" skinid="ht_node" tilt="-13.62"/>
+    <userdata copyright="" title="" author="" nodeid="node3" datetime="17/03/2022 12:39 PM" comment="" customnodeid="" info="" longitude="" source="" description="" tags="Assets" latitude="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-18.41" title="" skinid="ht_node" id="Point01" target="" description="" url="{node1}" tilt="-4.92"/>
     </hotspots>
     <media>
-      <image rotx="0.000" clickmode="0" id="Element01" pan="-60.090" height="349" rotz="0.000" fov="7.796" handcursor="0" tilt="-15.040" width="265" roty="0.000" stretch="1.000">
+      <image pan="-60.090" height="349" rotx="0.000" handcursor="0" id="Element01" clickmode="0" width="265" stretch="1.000" fov="7.796" roty="0.000" rotz="0.000" tilt="-15.040">
         <source url="media/Key-11-11.png"/>
       </image>
-      <lensflare id="Lensflare01" pan="-8.950" blinding="36.000" type="1" color="0xffffff" tilt="16.560" alpha="80.000"/>
+      <image pan="-18.390" height="604" rotx="3.000" handcursor="0" id="Element02" clickmode="0" width="1400" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="1.100">
+        <source url="media/Node two title.png"/>
+      </image>
+      <lensflare pan="-8.950" color="0xffffff" id="Lensflare01" type="1" blinding="36.000" tilt="16.560" alpha="80.000"/>
     </media>
-    <transition enabled="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="120" zoomout="0" zoomoutpause="1"/>
+    <transition blendtime="1" zoomfov="40" zoomspeed="2" zoomin="0" zoomafterinfov="120" softedge="0" zoomoutpause="1" zoomafteroutfov="40" enabled="0" type="crossdissolve" zoomout="0" blendcolor="0x000000"/>
     <flyintransition enabled="1" speed="2.00"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control invertcontrol="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" sensitivity="8" rubberband="0" contextprojections="0" hideabout="0" simulatemass="1" contextvr="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" hideabout="0" sensitivity="8" simulatemass="1" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node1">
-    <input height="3072" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3072" levelbias="0.400" levelingpitch="0">
-      <level height="3072" preload="0" width="3072" predecode="0"/>
-      <level height="1536" preload="0" width="1536" predecode="0"/>
-      <level height="768" preload="0" width="768" predecode="0"/>
-      <level height="384" preload="1" width="384" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="3072" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3072" leveltilesize="510">
+      <level height="3072" predecode="0" width="3072" preload="0"/>
+      <level height="1536" predecode="0" width="1536" preload="0"/>
+      <level height="768" predecode="0" width="768" preload="0"/>
+      <level height="384" predecode="1" width="384" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="0">
+    <view fovmode="0" pannorth="0">
       <start pan="-89.32" fov="70" tilt="1.59" projection="4"/>
       <flyin pan="-101.56" fov="129.81" tilt="-2.08" projection="4"/>
       <min pan="0" fovpixel="50" tilt="-90"/>
-      <max fovstereographic="330" pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+      <max pan="360" scaletofit="1" fovstereographic="330" fov="120" fovfisheye="360" tilt="90"/>
     </view>
-    <userdata tags="Assets" nodeid="node1" title="" description="" info="" customnodeid="" comment="" latitude="" heading="0" author="" datetime="17/03/2022 12:39 PM" copyright="" source="" longitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label bordercolor="0x000000" height="20" wordwrap="1" enabled="1" backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" border="1" width="180" backgroundalpha="1" borderalpha="1" background="1" textalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot id="Point01" pan="-364.75" title="" target="" description="" url="{node2}" skinid="ht_node" tilt="-3.26"/>
-      <hotspot id="Point02" pan="-199.37" title="" target="" description="" url="{node3}" skinid="ht_node" tilt="-2.05"/>
-      <hotspot id="Point03" pan="-215" title="How is a Learning Lab used?" target="" description="A student learns across areas such as English, Mathematics, Science, Technologies, The Arts and all other subjects in an immersive and engaging way,&#xa;&#xa;A worker retains a deeper understanding of new onboarding or training requirements,&#xa;&#xa;An employee learns about a high-risk, high-cost environment in a safe and cost-effective space,&#xa;&#xa;A manufacturer replicates manufacturing processes to upskill staff in a contextual environment. " url="" skinid="ht_info" tilt="-14"/>
-      <hotspot id="Point04" pan="-225" title="Learn More" target="_blank" description="" url="https://lumination.com.au/products/lumination-learning-labs/" skinid="ht_url" tilt="-14"/>
-      <hotspot id="Point05" pan="-250" title="Learn More" target="_blank" description="" url="https://lumination.com.au/products/overlay" skinid="ht_url" tilt="-14"/>
-      <hotspot id="Point06" pan="-274.71" title="Learn More" target="_blank" description="" url="https://lumination.com.au/products/leadme/leadme-edu/" skinid="ht_url" tilt="-14"/>
-      <hotspot id="Point07" pan="-265" title="Download the App" target="_blank" description="" url="https://play.google.com/store/apps/details?id=com.lumination.leadme&amp;hl=en_AU&amp;gl=US" skinid="ht_url" tilt="-14.06"/>
-      <hotspot id="Point08" pan="-300" title="Learn More" target="_blank" description="" url="" skinid="ht_url" tilt="-14"/>
-      <hotspot id="Point09" pan="-324.64" title="Learn More" target="_blank" description="" url="https://lumination.com.au/products/immersive-learning-tools/" skinid="ht_url" tilt="-14"/>
+    <userdata copyright="" title="" author="" nodeid="node1" datetime="17/03/2022 12:39 PM" comment="" customnodeid="" info="" longitude="" source="" description="" tags="Assets" latitude="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-364.75" title="" skinid="ht_node" id="Point01" target="" description="" url="{node2}" tilt="-3.26"/>
+      <hotspot pan="-199.37" title="" skinid="ht_node" id="Point02" target="" description="" url="{node3}" tilt="-2.05"/>
+      <hotspot pan="-215" title="How is a Learning Lab used?" skinid="ht_info" id="Point03" target="" description="A student learns across areas such as English, Mathematics, Science, Technologies, The Arts and all other subjects in an immersive and engaging way,&#xa;&#xa;A worker retains a deeper understanding of new onboarding or training requirements,&#xa;&#xa;An employee learns about a high-risk, high-cost environment in a safe and cost-effective space,&#xa;&#xa;A manufacturer replicates manufacturing processes to upskill staff in a contextual environment. " url="" tilt="-14"/>
+      <hotspot pan="-225" title="Learn More" skinid="ht_url" id="Point04" target="_blank" description="" url="https://lumination.com.au/products/lumination-learning-labs/" tilt="-14"/>
+      <hotspot pan="-250" title="Learn More" skinid="ht_url" id="Point05" target="_blank" description="" url="https://lumination.com.au/products/overlay" tilt="-14"/>
+      <hotspot pan="-274.71" title="Learn More" skinid="ht_url" id="Point06" target="_blank" description="" url="https://lumination.com.au/products/leadme/leadme-edu/" tilt="-14"/>
+      <hotspot pan="-265" title="Download the App" skinid="ht_url" id="Point07" target="_blank" description="" url="https://play.google.com/store/apps/details?id=com.lumination.leadme&amp;hl=en_AU&amp;gl=US" tilt="-14.06"/>
+      <hotspot pan="-300" title="Learn More" skinid="ht_url" id="Point08" target="_blank" description="" url="" tilt="-14"/>
+      <hotspot pan="-324.64" title="Learn More" skinid="ht_url" id="Point09" target="_blank" description="" url="https://lumination.com.au/products/immersive-learning-tools/" tilt="-14"/>
     </hotspots>
     <media>
-      <image rotx="0.000" clickmode="0" id="Element01" pan="140.000" height="1755" rotz="0.000" fov="20.000" handcursor="0" tilt="-0.040" width="1242" roty="0.000" stretch="1.000">
+      <image pan="140.000" height="1755" rotx="0.000" handcursor="0" id="Element01" clickmode="0" width="1242" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="-0.040">
         <source url="media/Product Cards_Lumination Learning Lab.jpg"/>
       </image>
-      <image rotx="0.000" clickmode="0" id="Element02" pan="115.000" height="1755" rotz="0.000" fov="20.000" handcursor="0" tilt="0.000" width="1241" roty="0.000" stretch="1.000">
+      <image pan="115.000" height="1755" rotx="0.000" handcursor="0" id="Element02" clickmode="0" width="1241" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="0.000">
         <source url="media/Product Cards_Overlay_nologo_Overlay.jpg"/>
       </image>
-      <image rotx="0.000" clickmode="0" id="Element03" pan="90.000" height="1755" rotz="0.000" fov="20.000" handcursor="0" tilt="0.000" width="1241" roty="0.000" stretch="1.000">
+      <image pan="90.000" height="1755" rotx="0.000" handcursor="0" id="Element03" clickmode="0" width="1241" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="0.000">
         <source url="media/Product Cards_XR Training.jpg"/>
       </image>
-      <image rotx="0.000" clickmode="0" id="Element04" pan="65.000" height="1755" rotz="0.000" fov="20.000" handcursor="0" tilt="0.000" width="1241" roty="0.000" stretch="1.000">
+      <image pan="65.000" height="1755" rotx="0.000" handcursor="0" id="Element04" clickmode="0" width="1241" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="0.000">
         <source url="media/Product Cards_Leadme.jpg"/>
       </image>
-      <image rotx="0.000" clickmode="0" id="Element05" pan="40.000" height="1755" rotz="0.000" fov="20.000" handcursor="0" tilt="0.000" width="1241" roty="0.000" stretch="1.000">
+      <image pan="40.000" height="1755" rotx="0.000" handcursor="0" id="Element05" clickmode="0" width="1241" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="0.000">
         <source url="media/Product Cards_STEM Learning Tools.jpg"/>
       </image>
-      <image rotx="23.000" clickmode="0" id="Element06" pan="-236.840" height="589" rotz="0.000" fov="30.000" handcursor="0" tilt="21.710" width="2000" roty="0.000" stretch="1.000">
+      <image pan="-236.840" height="589" rotx="23.000" handcursor="0" id="Element06" clickmode="0" width="2000" stretch="1.000" fov="30.000" roty="0.000" rotz="0.000" tilt="21.710">
         <source url="media/Header-06.png"/>
       </image>
-      <video ambientlevel="0.000" rotz="0.000" handcursor="1" pan="-86.300" fov="32.020" height="1080" clickmode="2" nodechangekeep="0" field="90.000" rotx="7.000" tiltsize="10.000" tilt="6.960" mode="1" width="1920" loop="1" stretch="0.960" pansize="10.000" id="Element07" roty="4.000" startmutedmobile="0" level="1.000">
+      <image pan="-4.590" height="800" rotx="0.000" handcursor="0" id="Element08" clickmode="0" width="2089" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="4.090">
+        <source url="media/Node Title.png"/>
+      </image>
+      <image pan="-88.190" height="312" rotx="22.000" handcursor="0" id="Element09" clickmode="0" width="1200" stretch="1.000" fov="20.000" roty="0.000" rotz="-1.000" tilt="18.230">
+        <source url="media/Video Title.png"/>
+      </image>
+      <video pansize="10.000" rotx="7.000" field="90.000" ambientlevel="0.000" startmutedmobile="0" tilt="6.960" handcursor="1" mode="1" id="Element07" nodechangekeep="0" rotz="0.000" clickmode="2" loop="1" width="1920" level="1.000" height="1080" fov="32.020" roty="4.000" stretch="0.960" pan="-86.300" tiltsize="10.000">
         <source url="media/Sizzle_Reel.mp4"/>
       </video>
-      <lensflare id="Lensflare01" pan="-348.260" blinding="36.000" type="1" color="0xffffff" tilt="32.540" alpha="80.000"/>
+      <lensflare pan="-348.260" color="0xffffff" id="Lensflare01" type="1" blinding="36.000" tilt="32.540" alpha="80.000"/>
     </media>
-    <transition enabled="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="120" zoomout="0" zoomoutpause="1"/>
+    <transition blendtime="1" zoomfov="40" zoomspeed="2" zoomin="0" zoomafterinfov="120" softedge="0" zoomoutpause="1" zoomafteroutfov="40" enabled="0" type="crossdissolve" zoomout="0" blendcolor="0x000000"/>
     <flyintransition enabled="1" speed="2.00"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control invertcontrol="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" sensitivity="8" rubberband="0" contextprojections="0" hideabout="0" simulatemass="1" contextvr="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" hideabout="0" sensitivity="8" simulatemass="1" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node2">
-    <input height="3072" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3072" levelbias="0.400" levelingpitch="0">
-      <level height="3072" preload="0" width="3072" predecode="0"/>
-      <level height="1536" preload="0" width="1536" predecode="0"/>
-      <level height="768" preload="0" width="768" predecode="0"/>
-      <level height="384" preload="1" width="384" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="3072" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3072" leveltilesize="510">
+      <level height="3072" predecode="0" width="3072" preload="0"/>
+      <level height="1536" predecode="0" width="1536" preload="0"/>
+      <level height="768" predecode="0" width="768" preload="0"/>
+      <level height="384" predecode="1" width="384" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="0">
+    <view fovmode="0" pannorth="0">
       <start pan="8.99" fov="70" tilt="-2.18" projection="4"/>
       <flyin pan="49.14" fov="129.81" tilt="-16.01" projection="4"/>
       <min pan="0" fovpixel="50" tilt="-90"/>
-      <max fovstereographic="330" pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+      <max pan="360" scaletofit="1" fovstereographic="330" fov="120" fovfisheye="360" tilt="90"/>
     </view>
-    <userdata tags="Assets" nodeid="node2" title="" description="" info="" customnodeid="" comment="" latitude="" heading="0" author="" datetime="17/03/2022 12:39 PM" copyright="" source="" longitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label bordercolor="0x000000" height="20" wordwrap="1" enabled="1" backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" border="1" width="180" backgroundalpha="1" borderalpha="1" background="1" textalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot id="Point01" pan="-204.73" title="" target="" description="" url="{node1}" skinid="ht_node" tilt="-2.34"/>
-      <hotspot id="Point03" pan="-1.12" title="The Latest Headsets" target="" description="Our Lumination Learning Lab uses the leading enterprise headset solutions that, when combined with powerful computer graphics, provide the most realistic and high-definition and immersive experience." url="" skinid="ht_info" tilt="-6.4"/>
-      <hotspot id="Point04" pan="-341.44" title="Share The Experience" target="" description="The extended reality (XR) space creates a collaborative environment by broadcasting Virtual Reality worlds onto large panoramic displays. &#xa;&#xa;Cohorts of participants are able to see and engage with the activities that participants are experiencing; actively engaging with the technology and developing key skills." url="" skinid="ht_info" tilt="3.37"/>
-      <hotspot id="Point02" pan="-260.7" title="The Automation Tablet" target="" description="Guide students, employees and the workforce through Virtual Reality and digital learning with ease. &#xa;&#xa;Users fully control the experience. Set the scene with room automation for lighting, AV equipment and blinds.&#xa;&#xa;Seamlessly launch VR experiences for all learners." url="" skinid="ht_info" tilt="0.26"/>
-      <hotspot id="Point05" pan="-136.67" title="A Flexible Learning Environment" target="" description="Cohorts of participants actively engage with the technology and develop key skills. A Lumination Learning Lab can be transformed into a variety dynamic learning environments; classroom, theatre, boardroom among many other configurations." url="" skinid="ht_info" tilt="-7.83"/>
-      <hotspot id="Point06" pan="-336.64" title="VR Station Safe Area" target="" description="The lighted safe area ensures that users are kept safe within their virtual reality experience. Users see a 'no go zone' within the headset when they approach the safe zone perimeter.&#xa;&#xa;" url="" skinid="ht_info" tilt="-27.72"/>
-      <hotspot id="Point07" pan="-60.9" title="Download" target="_blank" description="" url="https://lumination.com.au/wp-content/uploads/2022/03/Lumination-Learning-Labs-Implementation-Plan-Print.pdf" skinid="ht_pdf" tilt="-7.77"/>
-      <hotspot id="Point08" pan="-61.71" title="Download" target="_blank" description="" url="https://drive.google.com/file/d/15bboHqQngdcubeZEMK3aftqCfUvnORH3/view?usp=sharing" skinid="ht_pdf" tilt="-26.1"/>
+    <userdata copyright="" title="" author="" nodeid="node2" datetime="17/03/2022 12:39 PM" comment="" customnodeid="" info="" longitude="" source="" description="" tags="Assets" latitude="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-208.4" title="" skinid="ht_node" id="Point01" target="" description="" url="{node1}" tilt="-2.58"/>
+      <hotspot pan="-1.12" title="The Latest Headsets" skinid="ht_info" id="Point03" target="" description="Our Lumination Learning Lab uses the leading enterprise headset solutions that, when combined with powerful computer graphics, provide the most realistic and high-definition and immersive experience." url="" tilt="-6.4"/>
+      <hotspot pan="-341.44" title="Share The Experience" skinid="ht_info" id="Point04" target="" description="The extended reality (XR) space creates a collaborative environment by broadcasting Virtual Reality worlds onto large panoramic displays. &#xa;&#xa;Cohorts of participants are able to see and engage with the activities that participants are experiencing; actively engaging with the technology and developing key skills." url="" tilt="3.37"/>
+      <hotspot pan="-260.7" title="The Automation Tablet" skinid="ht_info" id="Point02" target="" description="Guide students, employees and the workforce through Virtual Reality and digital learning with ease. &#xa;&#xa;Users fully control the experience. Set the scene with room automation for lighting, AV equipment and blinds.&#xa;&#xa;Seamlessly launch VR experiences for all learners." url="" tilt="0.26"/>
+      <hotspot pan="-136.67" title="A Flexible Learning Environment" skinid="ht_info" id="Point05" target="" description="Cohorts of participants actively engage with the technology and develop key skills. A Lumination Learning Lab can be transformed into a variety dynamic learning environments; classroom, theatre, boardroom among many other configurations." url="" tilt="-7.83"/>
+      <hotspot pan="-336.64" title="VR Station Safe Area" skinid="ht_info" id="Point06" target="" description="The lighted safe area ensures that users are kept safe within their virtual reality experience. Users see a 'no go zone' within the headset when they approach the safe zone perimeter.&#xa;&#xa;" url="" tilt="-27.72"/>
+      <hotspot pan="-60.9" title="Download" skinid="ht_pdf" id="Point07" target="_blank" description="" url="https://lumination.com.au/wp-content/uploads/2022/03/Lumination-Learning-Labs-Implementation-Plan-Print.pdf" tilt="-7.77"/>
+      <hotspot pan="-61.71" title="Download" skinid="ht_pdf" id="Point08" target="_blank" description="" url="https://drive.google.com/file/d/15bboHqQngdcubeZEMK3aftqCfUvnORH3/view?usp=sharing" tilt="-26.1"/>
+      <polyhotspot title="" bordercolor="0x0000ff" borderalpha="0" id="Poly01" backgroundalpha="0" target="_blank" backgroundcolor="0x0000ff" description="" url="https://www.lumination.com.au/contact-us">
+        <polystring>-97.8/-7.56|-96.67/-16.45|-118.63/-17.11|-118.47/5.45|-119.23/18.91|-96.7/20.32</polystring>
+      </polyhotspot>
     </hotspots>
     <media>
-      <image rotx="17.000" clickmode="0" id="Element01" pan="-52.980" height="669" rotz="0.000" fov="20.000" handcursor="0" tilt="14.880" width="1319" roty="0.000" stretch="1.000">
+      <image pan="-52.980" height="669" rotx="17.000" handcursor="0" id="Element01" clickmode="0" width="1319" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="14.880">
         <source url="media/Assets_title-07.png"/>
       </image>
-      <image rotx="22.000" clickmode="0" id="Element02" pan="-357.740" height="669" rotz="0.000" fov="20.000" handcursor="0" tilt="16.770" width="1775" roty="0.000" stretch="1.000">
+      <image pan="-357.740" height="669" rotx="22.000" handcursor="0" id="Element02" clickmode="0" width="1775" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="16.770">
         <source url="media/VR Stations-09.png"/>
       </image>
-      <image rotx="-4.000" clickmode="0" id="Element03" pan="-54.760" height="486" rotz="0.000" fov="20.000" handcursor="0" tilt="-3.930" width="736" roty="0.000" stretch="1.000">
+      <image pan="-54.760" height="486" rotx="-4.000" handcursor="0" id="Element03" clickmode="0" width="736" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="-3.930">
         <source url="media/Assets-08.png"/>
       </image>
-      <image rotx="-21.000" clickmode="0" id="Element04" pan="-53.640" height="396" rotz="0.000" fov="20.000" handcursor="0" tilt="-22.630" width="744" roty="0.000" stretch="1.000">
+      <image pan="-53.640" height="396" rotx="-21.000" handcursor="0" id="Element04" clickmode="0" width="744" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="-22.630">
         <source url="media/Assets-09.png"/>
       </image>
+      <image pan="-208.510" height="604" rotx="8.000" handcursor="0" id="Element05" clickmode="0" width="1400" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="5.250">
+        <source url="media/Node two title.png"/>
+      </image>
+      <image pan="-107.440" height="701" rotx="11.000" handcursor="0" id="Element06" clickmode="0" width="1709" stretch="1.000" fov="30.000" roty="0.000" rotz="0.000" tilt="12.240">
+        <source url="media/CTA_Title.png"/>
+      </image>
+      <image pan="-107.610" height="578" rotx="-2.000" handcursor="0" id="Element07" clickmode="0" width="1342" stretch="1.000" fov="20.000" roty="0.000" rotz="0.000" tilt="-4.070">
+        <source url="media/CTA_Button.png"/>
+      </image>
     </media>
-    <transition enabled="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="120" zoomout="0" zoomoutpause="1"/>
+    <transition blendtime="1" zoomfov="40" zoomspeed="2" zoomin="0" zoomafterinfov="120" softedge="0" zoomoutpause="1" zoomafteroutfov="40" enabled="0" type="crossdissolve" zoomout="0" blendcolor="0x000000"/>
     <flyintransition enabled="1" speed="2.00"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control invertcontrol="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" sensitivity="8" rubberband="0" contextprojections="0" hideabout="0" simulatemass="1" contextvr="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" hideabout="0" sensitivity="8" simulatemass="1" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0"/>
   </panorama>
   <masternode>
-    <userdata tags="" nodeid="master" title="" description="" info="" customnodeid="" comment="" latitude="" heading="0" author="" datetime="" copyright="" source="" longitude=""/>
+    <userdata copyright="" title="" author="" nodeid="master" datetime="" comment="" customnodeid="" info="" longitude="" source="" description="" tags="" latitude="" heading="0"/>
   </masternode>
 </tour>
