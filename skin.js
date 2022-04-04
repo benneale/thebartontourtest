@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.14/18105
 // Filename: neto_nopic.ggsk
-// Generated 2022-04-04T09:51:34
+// Generated 2022-04-04T09:58:14
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_controls', 2, true);
